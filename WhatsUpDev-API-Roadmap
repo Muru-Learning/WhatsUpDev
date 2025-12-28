@@ -11,6 +11,8 @@ Using Tech is SpringBoot + REST Api + MySQL
 7. Create DAO implementation layer
 8. API to DB integration layer using Spring Data JPA
 9. Create a Spring Scheduler using Spring Batch
+10. Added Video call feature
+11. Added Audio call feature
 
 Database sector:
 1. Create a new schema
