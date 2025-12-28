@@ -1,0 +1,17 @@
+Whatsup development API roadmap:
+
+1. Create UI pages
+
+Using Tech is SpringBoot + REST Api + MySQL
+2. Create controller layer 
+3. Create Service layer
+4. Create Resource Layer
+5. Create the Implementation layer of the Service layer
+6. Create DAO layer
+7. Create DAO implementation layer
+
+Database sector:
+1. Create a new schema
+2. Creates tables
+3. Insert Tables (image, audio, video)
+
